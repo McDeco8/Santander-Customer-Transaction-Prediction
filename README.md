@@ -89,7 +89,7 @@ Ensure you have Python 3.7 or higher installed.
 
 - **Model Used**: Logistic Regression (with Cross-Validation)
 - **Evaluation Metrics**:
-  - ROC-AUC: Achieved a score of `X.XX`
+  - ROC-AUC: Achieved a score of ` 0.796`
   - Confusion Matrix: Detailed insights into performance.
 
 ---
